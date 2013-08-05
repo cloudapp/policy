@@ -130,7 +130,7 @@ following specific terms:
 * Prices of all Services, including but not limited to monthly subscription plan
   fees to the Service, are subject to change upon 30 days notice from us. Such
   notice may be provided at any time by posting the changes to the CloudApp Site
-  (http://www.getcloudapp.com) or the Service itself.
+  or the Service itself.
 
 * Linebreak shall not be liable to you or to any third party for any
   modification, price change, suspension or discontinuance of the Service.
