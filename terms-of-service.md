@@ -6,7 +6,7 @@ If you are entering this agreement on behalf of a company or other legal entity,
 
 If you don’t agree with these terms of service, don’t accept the terms, and don’t use the services.
 
-We have the right to update and change the terms of service from time to time without prior notice. Any new features that augment or enhance the current service, including the release of new tools and resources, shall be subject to the terms of service. Continued use of the service after any such changes shall constitute your consent to such changes. You can review the most current version of the terms of service at any time at: http://www.getcloudapp.com/terms.
+We have the right to update and change the terms of service from time to time without prior notice. Any new features that augment or enhance the current service, including the release of new tools and resources, shall be subject to the terms of service. Continued use of the service after any such changes shall constitute your consent to such changes. You can review the most current version of the terms of service at any time [here]https://github.com/cloudapp/policy/edit/master/terms-of-service.md.
 
 Violation of any of the terms below will result in the termination of your account. While we prohibit certain conduct and content on the service, you understand and agree that we cannot be responsible for the content posted on the service and you nonetheless may be exposed to such materials. You agree to use the service at your own risk.
 
