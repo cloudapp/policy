@@ -121,7 +121,9 @@ You must not upload, post, host, or transmit unsolicited email, SMSs, or "spam" 
 
 You must not transmit any worms or viruses or any code of a destructive nature.
 
-If your bandwidth usage significantly exceeds the average bandwidth usage (as we determine in our sole discretion) of our other customers, we reserve the right to immediately disable your account or throttle your file hosting until you can reduce your bandwidth consumption.
+A small number of users are responsible for generating large volumes of traffic on our network, which can impact the service we offer to our other users. Our fair usage policy is designed to ensure that all users receive a fast and reliable service. Free accounts are limited to 10GB of data transfer per month (approximately 333 MB per day). Pro accounts (including all paid plans) are limited to 100GB of data transfer per month (approximately 3.33GB per day).
+
+If your bandwidth usage (also known as data transfer) exceeds the mentioned fair usage policy in a single calendar day, we reserve the right to immediately disable your account or throttle your file hosting until you can reduce your bandwidth consumption.
 
 We do not warrant that (i) the service will meet your specific requirements, (ii) the service will be uninterrupted, timely, secure, or error- free, (iii) the results that may be obtained from the use of the service will be accurate or reliable, (iv) the quality of any products, services, information, or other material purchased or obtained by you through the service will meet your expectations, and (v) any errors in the service will be corrected.
 
