@@ -18,8 +18,7 @@ We respect your privacy.  A complete statement of our privacy policy can be foun
 
 To use the service, you must:
 
-be 13 years or older.
-be a human. Accounts registered by "bots" or other automated methods are not permitted.
+Be 13 years or older and be a human. Accounts registered by "bots" or other automated methods are not permitted.
 provide your legal full name, a valid email address, and any other information requested in order to complete the signup process.
 
 You are responsible for maintaining the security of your account and password. 
@@ -47,9 +46,9 @@ We reserve the right at any time to modify or discontinue, temporarily or perman
 
 Free accounts are not required to provide a credit card number.
 
-All paid plans must enter a valid credit card. You will be immediately billed upon upgrade from the free plan to any paying plan.For any upgrade or downgrade in plan level, your credit card that you provided will automatically be charged the new rate on your next billing cycle.
+All paid plans must enter a valid credit card. You will be immediately billed upon upgrade from the free plan to any paying plan. For any upgrade or downgrade in plan level, your credit card that you provided will automatically be charged the new rate on your next billing cycle.
 
-The Service is billed in advance on a monthly basis and is non-refundable. There will be no refunds or credits for partial months of service, upgrade/downgrade refunds, or refunds for months unused with an open account. In order to treat everyone equally, no exceptions will be made.
+The Service is billed in advance on a monthly or annual basis and is non-refundable. There will be no refunds or credits for partial months or years of service, upgrade/downgrade refunds, or refunds for months or years unused with an open account. In order to treat everyone equally, no exceptions will be made.
 
 All fees are exclusive of all taxes, levies, or duties imposed by taxing authorities, and you shall be responsible for payment of all such taxes, levies, or duties.
 
